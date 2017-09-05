@@ -1,3 +1,3 @@
 # induccionesSetiembre
 
-nueva linea bla bla bla
+nueva linea
